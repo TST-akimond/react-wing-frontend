@@ -1,0 +1,53 @@
+.wrap {
+}
+.header {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #555555;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+.info {
+  font-size: 1.2rem;
+  font-weight: 700;
+  margin-bottom: 0.4rem;
+}
+.top {
+  text-align: center;
+  padding-top: 4rem;
+  padding-bottom: 2rem;
+}
+.startingat {
+  color: #bbbbbb;
+}
+.price {
+  color: #206bef;
+  margin-bottom: 3rem;
+}
+.termtext {
+  color: #55bbff;
+}
+.middle {
+  background-color: #c6c9d3;
+  padding: 1rem 2rem;
+  color: #506090;
+  min-height: 15rem;
+  border-bottom: solid white 0.1rem;
+}
+.bottom {
+  background-color: #c6c9d3;
+  padding: 1rem 2rem;
+  color: #506090;
+}
+.service {
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 700;
+}
+.tick {
+  flex: 1;
+}
+.sentence {
+  flex: 7;
+  flex-wrap: wrap;
+}

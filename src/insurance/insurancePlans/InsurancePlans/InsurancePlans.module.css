@@ -1,0 +1,15 @@
+
+.layout {
+  display: flex;
+}
+
+.card {
+  flex: 1;
+}
+
+.middlecard {
+  flex: 1;
+  border-radius: 0.1rem;
+  box-shadow: 4px 4px 8px 8px #aaaaaa;
+  z-index: 99;
+}
